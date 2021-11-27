@@ -24,11 +24,11 @@ In this repository I keep all the notes, materials and projects that were carrie
 
 ### Features
 
-- [x] Configuring the environment
-- [x] Important concepts
-- [x] HTTP calls
-- [x] Using typescript
-- [x] Finishing application
+- [x] Application structure
+- [x] Componentization
+- [x] Consuming API
+- [x] Modal & Forms
+- [x] Contexts and hooks
 
 ### Technology
 The following tools were used in the construction of the project: 

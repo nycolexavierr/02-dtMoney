@@ -24,11 +24,11 @@ En este repositorio guardo todas las notas, materiales y proyectos que se llevar
 
 ### Features
 
-- [x] Entorno de configuración
-- [x] Conceptos importantes
-- [x] Llamadas HTTP
-- [x] Usando TypeScript
-- [x] Aplicación de acabado
+- [x] Estructura de la aplicación
+- [x] Componentización
+- [x] API consumidora
+- [x] Modal y Formas
+- [x] Contextos y ganchos
 
 ### Tecnología
 
