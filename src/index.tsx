@@ -10,6 +10,29 @@ createServer({
     transaction: Model,
   },
 
+  seeds(server) {
+    server.db.loadData({
+      transactions: [
+        {
+          id: 1,
+          title: 'Freelance de website',
+          type: 'deposit',
+          category: 'Dev',
+          amount: 6000,
+          createdAt: new Date('2022-02-12 09:02:00'),
+        },
+        {
+          id: 1,
+          title: 'Aluguel',
+          type: 'witdraw',
+          category: 'Casa',
+          amount: 1100,
+          createdAt: new Date('2022-02-02 09:02:00'),
+        }
+      ],
+    })
+  },
+
   routes() {
     this.namespace = 'api';
 
@@ -22,7 +45,7 @@ createServer({
 
       return schema.create('transaction', data)
     })
-  } 
+  }
 })
 
 ReactDOM.render(
