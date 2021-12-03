@@ -2,9 +2,9 @@
 ----
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
-### Change language: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEeng.md" target="_blank">🇺🇸</a> 
+### Change language: <a href="https://github.com/nycolexavierr/02-dtMoney/blob/main/READMEeng.md" target="_blank">🇺🇸</a> 
 
-### Cambiar idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
+### Cambiar idioma: <a href="https://github.com/nycolexavierr/02-dtMoney/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
 
 ### Aplicação: 
 ![image](https://user-images.githubusercontent.com/94902491/144485584-9372f940-55ff-4d27-8a26-f16cba4f2a58.png)
