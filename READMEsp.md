@@ -28,7 +28,7 @@ En este repositorio guardo todas las notas, materiales y proyectos que se llevar
 - [x] Componentización
 - [x] API consumidora
 - [x] Modal y Formas
-- [ ] Contextos y ganchos
+- [x] Contextos y ganchos
 
 ### Tecnología
 
