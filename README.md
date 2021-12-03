@@ -29,7 +29,7 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 - [x] Componentização
 - [x] Consumindo API
 - [x] Modal & Forms
-- [ ] Contextos e hooks
+- [X] Contextos e hooks
 
 ### Tecnologia
 
