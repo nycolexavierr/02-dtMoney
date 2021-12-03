@@ -2,12 +2,12 @@
 ----
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
-### Mudar de idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/README.md" target="_blank">🇧🇷</a> 
+### Mudar de idioma: <a href="https://github.com/nycolexavierr/02-dtMoney/blob/main/README.md" target="_blank">🇧🇷</a> 
 
-### Change language: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEeng.md" target="_blank">🇺🇸</a> 
+### Change language: <a href="https://github.com/nycolexavierr/02-dtMoney/blob/main/READMEeng.md" target="_blank">🇺🇸</a> 
 
 ### Solicitud: 
-![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
+![image](https://user-images.githubusercontent.com/94902491/144485948-e35d1bfb-d3e3-40b5-b0cd-cd065995a46a.png)
 
 <p align="center">Este proyecto es parte de Ignite de RocketSeat<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
 
@@ -28,7 +28,7 @@ En este repositorio guardo todas las notas, materiales y proyectos que se llevar
 - [x] Componentización
 - [x] API consumidora
 - [x] Modal y Formas
-- [x] Contextos y ganchos
+- [ ] Contextos y ganchos
 
 ### Tecnología
 

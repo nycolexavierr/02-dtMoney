@@ -7,7 +7,7 @@
 ### Cambiar idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
 
 ### Aplicação: 
-![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
+![image](https://user-images.githubusercontent.com/94902491/144485584-9372f940-55ff-4d27-8a26-f16cba4f2a58.png)
 
 
 <p align="center">Este projeto faz parte do Ignite da RocketSeat<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
@@ -29,7 +29,7 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 - [x] Componentização
 - [x] Consumindo API
 - [x] Modal & Forms
-- [x] Contextos e hooks
+- [ ] Contextos e hooks
 
 ### Tecnologia
 

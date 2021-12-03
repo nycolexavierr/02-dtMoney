@@ -2,12 +2,12 @@
 ----
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
-### Mudar de idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/README.md" target="_blank">🇧🇷</a> 
+### Mudar de idioma: <a href="https://github.com/nycolexavierr/02-dtMoney/blob/main/README.md" target="_blank">🇧🇷</a> 
 
-### Cambiar idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
+### Cambiar idioma: <a href="https://github.com/nycolexavierr/02-dtMoney/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
 
 ### Application: 
-![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
+![image](https://user-images.githubusercontent.com/94902491/144485996-6219c8c4-7f61-489c-9e80-fff04a7954a8.png)
 
 <p align="center">This project is part of RocketSeat's Ignite<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
 
@@ -28,7 +28,7 @@ In this repository I keep all the notes, materials and projects that were carrie
 - [x] Componentization
 - [x] Consuming API
 - [x] Modal & Forms
-- [x] Contexts and hooks
+- [ ] Contexts and hooks
 
 ### Technology
 The following tools were used in the construction of the project: 
