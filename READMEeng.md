@@ -28,7 +28,7 @@ In this repository I keep all the notes, materials and projects that were carrie
 - [x] Componentization
 - [x] Consuming API
 - [x] Modal & Forms
-- [ ] Contexts and hooks
+- [x] Contexts and hooks
 
 ### Technology
 The following tools were used in the construction of the project: 
